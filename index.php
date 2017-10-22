@@ -1,3 +1,3 @@
 <?php
-	echo "THIS IS RUNNING ON OPENSHIFT. Hello HyperScalers!"
+	include "header.php"
 ?>
