@@ -4,6 +4,6 @@
 		<img src="images/redhatsmall.png">
 		<img src="images/hyperscalerssmall.png">
 	</div>
-	Hello Panel
+	Hello Everyone, How are you going?
 	';
 ?>
